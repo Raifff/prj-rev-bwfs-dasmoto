@@ -1,0 +1,67 @@
+h2 {
+
+  font-size: 40px;
+  color: white;
+
+}
+
+p {
+font-family: Helvetica;
+}
+
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    font-size: 82px;
+    color: khaki;
+  }
+
+  .price {
+  color:blue;
+  font-weight: bold;
+  }
+
+  #bannerimage {
+  position: relative;
+  left: 100px;
+  }
+
+#brushes{
+  position: relative;
+  left: -20px;
+  width: 800px;
+  border: 0px solid green;
+  padding: 0px;
+  margin: 20px;
+  background-color:mediumspringgreen;
+
+}
+
+#frames {
+  position: relative;
+  left: -20px;
+  width: 800px;
+  border: 0px solid green;
+  padding: 0px;
+  margin: 20px;
+  background-color:lightcoral;
+
+}
+
+#paint {
+  position: relative;
+  left: -20px;
+  width: 800px;
+  border: 0px solid green;
+  padding: 0px;
+  margin: 20px;
+  background-color:skyblue;
+}
+
+#brushes, #frames,#paint {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight:bold;
+}
